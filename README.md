@@ -7,9 +7,13 @@
   <strong>Video demo</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/e6bf4054-79ab-4923-b0b2-db92b802a909" target="_blank">Watch the demo video</a>
-</p>
+## Video demo
+
+[Watch the demo video](https://github.com/user-attachments/assets/7b69ddfc-9527-4a1e-a2d6-49e091434ab9)
+
+
+
+
 
 <p align="center">
   <em>Real-time object detection model to detect Fire and Smoke from images and video</em>
